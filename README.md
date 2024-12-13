@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Python for ML
 - 💞️ I’m looking to collaborate on ...idk
 - 📫 How to reach me ...idk
-- 😄 Pronouns: ...idk
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...idk
 
 <!---
