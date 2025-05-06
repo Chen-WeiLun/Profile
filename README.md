@@ -1,5 +1,5 @@
 # Hi, I’m Wei Lun Chen (陳韋綸)
-##this is not true yet, it's currently ai generated 
+## this is not true yet, it's currently ai generated 
 
 I'm an architecture graduate from Taiwan transitioning into the field of **Machine Learning for Architecture** — with a focus on **AI-driven design, spatial perception, and computational methods**. My goal is to bridge design and research through data, algorithms, and creativity.
 
