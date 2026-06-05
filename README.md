@@ -17,7 +17,7 @@ I'm working on:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **AI Space Perception Tool** | Quantifies spatial qualities based on user perception data | Python, Pandas, Plotly |
+| **AI Space Perception Tool** | Quantifies spatial qualities based on user perception data | Python, Pandas, Matplotlib |
 
 ---
 
